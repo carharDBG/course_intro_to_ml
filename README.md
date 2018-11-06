@@ -1,9 +1,14 @@
 # Introduction to Machine Learning
+## General Info
 Please have a look at the technologies we are going to use in this course:
 [technologies](md/technologies.md)
 
-Here is a list of ressources for machine learning
+Here is a list of resources for machine learning
 [ML resources](md/ml_resources.md)
+
+Schedule of the course
+[2 days](md/schedule.md)
+
 
 ## Table of Contents
 ### 1. Introduction 
