@@ -1,4 +1,9 @@
 # Introduction to Machine Learning
+Please have a look at the technologies we are going to use in this course:
+[technologies](md/technologies.md)
+
+Here is a list of ressources for machine learning
+[ML resources](md/ml_resources.md)
 
 ## Table of Contents
 ### 1. Introduction 
@@ -17,6 +22,16 @@ Learn from labelled data. Predicting values: Regression. Predicting Classes: Cla
 Clustering: K-means, dimensionality reduction: PCA, t-SNE
 
 ### 4. Model Evaluation
-[notebook 3](notebooks/3_model_evaluation.ipynb)
+[notebook 4](notebooks/4_model_evaluation.ipynb)
 
 Which model is better? How do I measure model performance?
+
+### 5. Neural Networks and Deep Learning
+[notebook 5](notebooks/5_neural_networks.ipynb)
+
+Learn about how to use Neural Networks to do predictions.
+
+### 6. Natural Language Processing and Chatbots
+[notebook 6](notebooks/6_nlp.ipynb)
+
+How to analyse language to classify texts and build a chatbot.
