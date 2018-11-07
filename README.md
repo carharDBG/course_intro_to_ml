@@ -60,3 +60,6 @@ Learn about how to use Neural Networks to do predictions.
 [notebook 6](notebooks/6_nlp.ipynb)
 
 How to analyse language to classify texts and build a chatbot.
+
+
+:octopus:

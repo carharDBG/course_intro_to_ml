@@ -1,7 +1,8 @@
 ## Learn about Machine Learning
 ### Books
 An Introduction to Statistical Learning [free PDF](http://www-bcf.usc.edu/~gareth/ISL/)
-<img src="../img/ISLR_book.jpg" alt="An Introduction to Statistical Learning" style="width:200px;"/>
+
+![ISL cover](./img/ISLR_book.jpg =200x)
 
 ### Youtube tutorials
 Machine Learning in Python with Scikit-learn 
