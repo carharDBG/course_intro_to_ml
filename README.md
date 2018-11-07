@@ -7,15 +7,17 @@ learning: supervised and unsupervised learning and how to apply them.
 We will teach how to distinguish classification and regression problems and the methods used address them.
 
 After creating your first models you will learn how to evaluate models and how to improve their performance.
-The core technologies we are using are: Python, Jupyter notebooks and scikit-learn.
-We will provide you with Jupyter notebooks for each of the six units, which will cover the theoretical background
-as well as executable code. Therefore, you will not need to write full scripts by yourself but instead modify and
-execute sniplets of code.
 
 We will also give a brief introduction into Neural Networks and text analysis using natural language processing and 
 how NLP is used for building chatbots.
 
 We try to use sample data sets from the domain of financial markets if possible. 
+The core technologies we are using are: Python, Jupyter notebooks and scikit-learn.
+We have chosen those as they are widely used among data scientist and are suitable for beginners as well as for professionals.
+
+We will provide you with Jupyter notebooks for each of the six units, which will cover the theoretical background
+as well as executable code. Therefore, you will not need to write full scripts by yourself but instead modify and
+execute sniplets of code.
 
 ## more ...
 Please have a look at the technologies we are going to use in this course:
