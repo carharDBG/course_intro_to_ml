@@ -24,7 +24,7 @@
 |  TH  | Dr. Thorsten Henrich         | thorsten.henrich |
 |  SC  | Dr. Shayanti Chattopadhyay Mukherjee         | shayanti.chattopadhyay  |
 |  BS  | Dr. Branimir Sesar        | branimir.sesar  |
-|  CH  | Dr. Thorsten Henrich         | carsten.harlass  |
+|  CH  | Dr. Carsten Harlass         | carsten.harlass  |
 |         |          | @deutsche-boerse.com   |
 
 
