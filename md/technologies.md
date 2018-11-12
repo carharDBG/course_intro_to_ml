@@ -40,7 +40,7 @@ Keras is a high-level neural networks API, written in Python. It lets you define
 train networks with data and use these models for predicting on new data.
 
 ### [Rasa](https://rasa.com/docs/getting-started/overview/) 
- An open source platform to build chatbots.
+An open source platform to build chatbots, which we will use.
  
  
 ### [GitHub](https://github.com)
