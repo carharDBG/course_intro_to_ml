@@ -19,7 +19,7 @@ We will provide you with Jupyter notebooks for each of the six units, which will
 as well as executable code. Therefore, you will not need to write full scripts by yourself but instead modify and
 execute sniplets of code.
 
-## more ...
+## More ...
 Please have a look at the technologies we are going to use in this course:
 [technologies](md/technologies.md)
 
