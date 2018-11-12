@@ -36,6 +36,15 @@ easy-to-use data structures and data analysis tools for the Python programming l
 data frames
 
 ### [Keras](https://keras.io/)
+Keras is a high-level neural networks API, written in Python. It lets you define layers, put them together to networks,
+train networks with data and use these models for predicting on new data.
 
-### [Rasa](https://rasa.com/docs/getting-started/overview/): a open source platform to build chatbots
-### GitHub
+### [Rasa](https://rasa.com/docs/getting-started/overview/) 
+ An open source platform to build chatbots.
+ 
+ 
+### [GitHub](https://github.com)
+GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. 
+It offers all of the distributed version control and source code management (SCM) functionality.
+
+The code for this course is shared in a GitHub [repository](https://github.com/ThorstenHen)
