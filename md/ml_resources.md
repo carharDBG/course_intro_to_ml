@@ -2,7 +2,7 @@
 ### Books
 
 
-|           |          |   |
+|             |             |             |
 |-------------|-------------|:-----------:|
 |![ISL cover](../img/1/ISLR_book.jpg)|----------------------------- An Introduction to Statistical Learning -----------------------------|----------------------------- [free PDF](http://www-bcf.usc.edu/~gareth/ISL/) -----------------------------|
 
