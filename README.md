@@ -1,5 +1,8 @@
 # Introduction to Machine Learning
+
 ## General Info
+This course is under development. It will be held beginning of 2019.
+
 
 This course aims for anyone interested in Machine Learning and will cover a basic introduction to the subject.
 You will learn how to model data and do predictions. You will learn about the two different kinds of machine
