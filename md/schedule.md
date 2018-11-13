@@ -7,8 +7,8 @@
 | 10:00 - 11:00  | 2. Supervised Learning [notebook 2](../notebooks/2_supervised_learning.ipynb) | TH |
 | 11:00 - 12:30  | 3. Unsupervised Learning [notebook 3](../notebooks/3_unsupervised_learning.ipynb)| SC |
 | 12:30 - 13:30  | - - - - - -   lunch break   - - - - - -|
-| 14:30 - 16:00  | 4. Model Evaluation [notebook 4](../notebooks/4_model_evaluation.ipynb)| BS |
-| 16:00 - 17:00  | 5. Natural Language Processing and Chatbots [notebook 5](../notebooks/5_nlp.ipynb)| TH |
+| 13:30 - 15:00  | 4. Model Evaluation [notebook 4](../notebooks/4_model_evaluation.ipynb)| BS |
+| 15:00 - 16:00  | 5. Natural Language Processing and Chatbots [notebook 5](../notebooks/5_nlp.ipynb)| TH |
 
 ###  Instructors
 |      |              |            |

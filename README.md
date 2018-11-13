@@ -54,13 +54,8 @@ Clustering: K-means, dimensionality reduction: PCA, t-SNE
 
 Which model is better? How do I measure model performance?
 
-### 5. Neural Networks and Deep Learning
-[notebook 5](notebooks/5_neural_networks.ipynb)
-
-Learn about how to use Neural Networks to do predictions.
-
-### 6. Natural Language Processing and Chatbots
-[notebook 6](notebooks/6_nlp.ipynb)
+### 5. Natural Language Processing and Chatbots
+[notebook 5](notebooks/5_nlp.ipynb)
 
 How to analyse language to classify texts and build a chatbot.
 
