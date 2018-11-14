@@ -29,8 +29,7 @@ Please have a look at the technologies we are going to use in this course:
 Here is a list of resources for machine learning
 [ML resources](md/ml_resources.md)
 
-Schedule of the course
-[2 days](md/schedule.md)
+[Schedule](md/schedule.md) of the course
 
 
 ## Table of Contents
