@@ -1,6 +1,6 @@
 # Introduction to Machine Learning
 
-This course is under development. It will be held beginning of 2019.
+This course is under development. It will be held beginning of 2019. Jan
 
 ## General Info
 
