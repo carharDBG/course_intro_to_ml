@@ -1,25 +1,18 @@
 # Introduction to Machine Learning
 
-## General Info
 This course is under development. It will be held beginning of 2019.
 
+## General Info
 
-This course aims for anyone interested in Machine Learning and will cover a **basic introduction** to the subject.
-You will learn how to prepare data (wrangle) create models and do predictions. You will learn about the two different kinds of machine
-learning: supervised and unsupervised learning and how to apply them. 
-We will teach how to distinguish classification and regression problems and the methods used address them.
+This course is aimed at anyone interested in Machine Learning and will cover a basic introduction to the subject. You will learn how to prepare (wrangle) data, create models and make predictions. You will learn about two different kinds of machine learning: supervised and unsupervised learning, and how to apply them. We will teach how to distinguish classification and regression problems and the methods used address them.
 
 After creating your first models you will learn how to evaluate models and how to improve their performance.
 
 We will also give a brief introduction to text analysis using natural language processing (NLP).
 
-We try to use sample data sets from the domain of financial markets if possible. 
-The core technologies we are using are: Python, Jupyter notebooks and scikit-learn.
-We have chosen those, as they are widely used among data scientist and are suitable for beginners as well as for professionals.
+We try to use sample data sets from the domain of financial markets if possible. The core technologies we will use are: Python, Jupyter notebooks and scikit-learn. We have chosen these because they are widely used among data scientists and are suitable for beginners as well as for professionals.
 
-We will provide you with Jupyter notebooks for each of the five units, which will cover the theoretical background
-as well as executable code. Therefore, you will not need to write full scripts by yourself but instead modify and
-execute sniplets of code.
+We will provide you with Jupyter notebooks for each of the five units, which will cover the theoretical background as well as executable code. Therefore, you will not need to write full scripts by yourself but instead modify and execute snippets of code.
 
 ## More ...
 Please have a look at the technologies we are going to use in this course:
