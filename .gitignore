@@ -1,5 +1,0 @@
-venv
-.spyproject
-notebooks/.ipynb_checkpoints/
-.idea/
-notebooks/test_notebook_code.py
