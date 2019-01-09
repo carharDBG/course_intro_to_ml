@@ -15,4 +15,7 @@ Read the General Information and follow the links to:
 https://github.com/ThorstenHen/course_intro_to_ml
 3. Click on the **launch** button and wait. 
 This will get the code from the repository and install all necessary python modules
-4. Run the **hello_world.ipynb**
+4. Run the **hello_world.ipynb** example.
+
+
+Now you are ready to go for the course!
