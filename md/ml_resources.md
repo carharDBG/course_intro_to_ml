@@ -2,9 +2,9 @@
 ### Books
 
 
-|           |          |   |
+|             |             |             |
 |-------------|-------------|:-----------:|
-|![ISL cover](../img/ISLR_book.jpg)|----------------------------- An Introduction to Statistical Learning -----------------------------|----------------------------- [free PDF](http://www-bcf.usc.edu/~gareth/ISL/) -----------------------------|
+|![ISL cover](../img/1/ISLR_book.jpg)|----------------------------- An Introduction to Statistical Learning -----------------------------|----------------------------- [free PDF](http://www-bcf.usc.edu/~gareth/ISL/) -----------------------------|
 
 ### Youtube tutorials
 Machine Learning in Python with Scikit-learn 
