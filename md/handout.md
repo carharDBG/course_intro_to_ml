@@ -8,16 +8,18 @@ Read the General Information and follow the links to:
 - ML resources
 - Schedule of the course
 
-### 2. Install this GitHub repository on Binder
-
+### 2. Launch Jupyter Notebooks (pick one of three alternatives)
+#### 2.1 Install this GitHub repository on MyBinder
 1. go to [mybinder.org/](https://mybinder.org/)
 2. Enter the repository name into the text field: **GitHub repository name or URL**
 https://github.com/ThorstenHen/course_intro_to_ml
 3. Click on the **launch** button and wait. 
 This will get the code from the repository and install all necessary python modules
-4. Run the **hello_world.ipynb** example.
 
-### 3. If Binder is NOT working
+#### 2.2 Install this GitHub repository on Pangeo
+- Same as 2.1 but use [binder.pangeo.io/](https://binder.pangeo.io/) in step 1
+
+#### 2.3 If Binder is NOT working you can launch jupyter notebooks locally
 1. Go to [https://github.com/ThorstenHen/course_intro_to_ml](https://github.com/ThorstenHen/course_intro_to_ml)
 2. Click on the green **"Clone or download"** button. 
     * Then **"Download ZIP"**. 
@@ -30,4 +32,5 @@ os.system('M:/WINPROG/Anaconda3/Scripts/jupyter-notebook --NotebookApp.notebook_
 ~~~~
 5. run notebook in Browser using URL: localhost:8888
 
-Now you are ready to go for the course!
+### 3. Now you are ready to go for the course!
+- Run the **hello_world.ipynb** example.
