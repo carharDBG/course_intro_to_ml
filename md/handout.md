@@ -26,7 +26,7 @@ https://github.com/ThorstenHen/course_intro_to_ml
 3. Click on the **launch** button and wait. 
 This will get the code from the repository and install all necessary python modules
 
-#### 2.3 If Binder is NOT working you can launch jupyter notebooks locally
+#### 2.3 If Pangeo and MyBinder are NOT working you can launch jupyter notebooks locally
 1. Go to [https://github.com/ThorstenHen/course_intro_to_ml](https://github.com/ThorstenHen/course_intro_to_ml)
 2. Click on the green **"Clone or download"** button. 
     * Then **"Download ZIP"**. 
