@@ -25,6 +25,7 @@ It features various classification, regression and clustering algorithms includi
 Jupyter notebooks contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). 
 
 Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis.
+[tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
 ### [Binder](https://mybinder.org/)
 With Binder, one can open notebooks in an executable environment, making the code immediately reproducible by anyone, anywhere.
