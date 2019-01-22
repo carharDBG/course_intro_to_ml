@@ -42,7 +42,6 @@ pywinpty==0.5.4
 PyYAML==4.2b4
 pyzmq==17.1.2
 qtconsole==4.4.2
-re==2.2.1
 scipy==1.1.0
 Send2Trash==1.5.0
 six==1.11.0
