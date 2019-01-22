@@ -15,6 +15,9 @@ We try to use sample data sets from the domain of financial markets if possible.
 We will provide you with Jupyter notebooks for each of the five units, which will cover the theoretical background as well as executable code. Therefore, you will not need to write full scripts by yourself but instead modify and execute snippets of code.
 
 ## More ...
+Here is the handout for this course:
+[handout](md/handout.md)
+
 Please have a look at the technologies we are going to use in this course:
 [technologies](md/technologies.md)
 
